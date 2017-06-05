@@ -1,0 +1,3 @@
+Ariel - Alice,Bar,Ariel.
+Bob - Bar,Alice,Bob.
+Carl - Alice,Carl.
